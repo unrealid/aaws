@@ -1,5 +1,6 @@
 # Wiring Sensor Tanah
 ***
+
 ## Thies Clima
 ### Earth Surface Temp Transmitter (2.1241.00.000)
 | Warna/No. Kabel | Keterangan | Slot Data Taker | CV |

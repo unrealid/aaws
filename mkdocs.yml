@@ -20,7 +20,9 @@ nav:
     - Precipitation: rain.md
     - Evaporation: evaporation.md
     - Soil: soil.md
-  - Data Logger: logger.md
+  - Data Logger: 
+    - Data Taker: logger.md
+    - Battery Replacement: battery.md
   - Modems:
     - Moxa: modem.md
     - Robustel: modem.md

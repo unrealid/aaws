@@ -1,5 +1,6 @@
 # Wiring Sensor Angin 2 meter
 ***
+
 ## Thies Clima
 ### WS Compact 2m (4.3519.00.173)
 | Warna/No.Kabel | Keterangan | Slot Data Taker | CV    |

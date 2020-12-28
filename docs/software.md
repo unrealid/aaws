@@ -1,7 +1,7 @@
 # Software
 ***
 
-!!! warning "Peringatan"
+!!! warning "Warning"
     Sebelum melaksanakan kegiatan pemeliharaan peralatan AAWS, **notebook/laptop harus sudah terinstall dan terkonfigurasi aplikasi yang tercantum dibawah ini**.
 
 ## DeTransfer

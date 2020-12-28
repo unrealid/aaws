@@ -1,13 +1,14 @@
-# Skema Sistem Power AAWS
+# Skema Sistem Power
 ***
-## Solar Regulator Phocos
+
+## Solar Regulator Phocos PWM
 
 ![Screenshot](img/schema_phocos.png)
 
-## Solar Regulator Victron
+## Solar Regulator Victron MPPT
 
 
-## Solar Regulator SunSaver/Lainnya
+## Solar Regulator SunSaver PWM/Lainnya
 
 ![Screenshot](img/schema_power.png)
 

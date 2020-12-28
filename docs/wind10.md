@@ -1,5 +1,6 @@
 # Wiring Sensor Angin 10 meter
 ***
+
 ## **Thies Clima**
 ### Ultrasonic 2D (4.3820.02.300)
 | Warna/No. Kabel | Keterangan | Slot Data Taker | CV   |
@@ -17,7 +18,7 @@
 | Pin T (hijau)        | Analog WS        | 1+HV            | 1CV  |
 | Pin S (orange)       | Analog WD        | 1*HV            | 10CV |
 | Pin O (putih hijau)  | Analog VT        |                 |      |
-| Pin H (putih coklat) | AGND             | DGND, 1#        |      |
+| Pin H (putih coklat) | AGND             | DGND & 1#       |      |
 | Pin E (coklat)       | DC +12V          |                 |      |
 | Pin D (biru)         | DC -12V          |                 |      |
 | Pin L (putih orange) | TXD+, RXD+ (HD)  | RTS             |      |
