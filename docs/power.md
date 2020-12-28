@@ -13,7 +13,7 @@
 ![Screenshot](img/schema_power.png)
 
 !!! note
-1.  Jika pada sistem power AAWS masih ada {==sekering maka harus dicabut==}.
+1.  Jika pada sistem power AAWS masih ada sekering maka {==sekering harus dicabut==}.
 2.  Setelah sekering dicabut, masing-masing kabel dari solar panel dan baterai dihubungkan 
     langsung ke solar regulator sesuai dengan slot-slotnya.
 3.  Load+ dari solar regulator {==harus dipasang MCB (6A)==} terlebih dahulu sebelum dipasang ke 
