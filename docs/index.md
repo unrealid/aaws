@@ -1,6 +1,6 @@
-# Petunjuk Teknis Pemeliharaan AAWS
+# AAWS - Maintenance User Guide 
 
 ![Screenshot](img/illustration.png)
 
 !!! info "Info"
-    Bacalah **Petunjuk Teknis Pemeliharaan AAWS** ini sebelum melaksanakan kegiatan.
+    Bacalah **AAWS - Maintenance User Guide** ini sebelum melaksanakan kegiatan.

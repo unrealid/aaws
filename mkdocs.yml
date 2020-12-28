@@ -1,32 +1,32 @@
-site_name: Juknis AAWS
-site_url: https://dhifender.gitlab.io/aaws/
+site_name: AAWS - User Guide
+site_url: https://unrealid.github.io/aaws/
 site_dir: public
 nav:
-  - Beranda: index.md
-  - Riwayat: release_notes.md
-  - Syarat & Ketentuan: 
-    - Syarat: requirement.md
-    - Ketentuan: software.md
-  - Sistem Daya: 
-    - power.md
-    - solar-panel.md
-  - Sensor-sensor:
-    - Angin 10m: wind10.md
-    - Angin 2m: wind2.md
-    - Radiasi Matahari: radiation.md
+  - Home: index.md
+  - Release Notes: release_notes.md
+  - Tools & Software: 
+    - Tools: requirement.md
+    - Software: software.md
+  - Power System: 
+    - Schemas: power.md
+    - Wiring: solar-panel.md
+  - Sensors:
+    - Wind 10m: wind10.md
+    - Wind 2m: wind2.md
+    - Solar Radiation: radiation.md
     - T/RH : trh.md
-    - Tekanan Udara: pressure.md
-    - Angin 0,5m: wind05.md
-    - Hujan: rain.md
-    - Penguapan: evaporation.md
-    - Tanah: soil.md
+    - Air Pressure: pressure.md
+    - Wind 0.5m: wind05.md
+    - Precipitation: rain.md
+    - Evaporation: evaporation.md
+    - Soil: soil.md
   - Data Logger: logger.md
-  - Modem:
-    - Sub A:
-      - Page 1: modem.md
+  - Modems:
+    - Moxa: modem.md
+    - Robustel: modem.md
+    - InHand: modem.md
 theme: 
   name: material
-  language: id
   palette:
     primary: blue
     accent: light blue

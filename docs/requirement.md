@@ -1,6 +1,6 @@
-# Syarat-syarat
+# Tools
 ***
-Berikut ini merupakan beberapa hal yang harus disiapkan sebelum melaksanakan kegiatan pemeliharaan peralatan AAWS, antara lain:
+Berikut merupakan beberapa hal yang harus disiapkan sebelum melaksanakan kegiatan pemeliharaan peralatan AAWS, antara lain:
 
 * `Notebook/Laptop` - OS Windows, port/converter LAN.
 * `Kabel LAN` - Tipe cross.

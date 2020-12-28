@@ -1,10 +1,13 @@
-# Skema Sistem Daya AAWS
+# Skema Sistem Power AAWS
 ***
 ## Solar Regulator Phocos
 
 ![Screenshot](img/schema_phocos.png)
 
-## Solar Regulator Lainnya
+## Solar Regulator Victron
+
+
+## Solar Regulator SunSaver/Lainnya
 
 ![Screenshot](img/schema_power.png)
 

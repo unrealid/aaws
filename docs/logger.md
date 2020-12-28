@@ -56,4 +56,7 @@ Phoco [retia](http://www.sanguine.io/semper.aspx) deo scelerique veni montis.
 Undis Ulixem ponat exemplo priorum opus secutus dotaliaque cives totumque
 insomni et sic in. Perpessi nemorum exire.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [thermofisher.com](https://www.thermofisher.com/id/en/home/industrial/manufacturing-processing/data-acquisition/data-acquisition-resources.html)
+
+(https://www.thermofisher.com/id/en/home/industrial/manufacturing-processing/data-acquisition/software-firmware-drivers.html)
+
