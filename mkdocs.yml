@@ -4,7 +4,7 @@ site_dir: public
 nav:
   - Home: index.md
   - Release Notes: release_notes.md
-  - Tools & Software: 
+  - Getting Started: 
     - Tools: requirement.md
     - Software: software.md
   - Power System: 
@@ -24,10 +24,7 @@ nav:
     - DeTransfer: detransfer.md
     - Data Taker: logger.md
     - Battery Replacement: battery.md
-  - Modems:
-    - Moxa: modem.md
-    - Robustel: modem.md
-    - InHand: modem.md
+  - Modems: modem.md
 theme: 
   name: material
   palette:
