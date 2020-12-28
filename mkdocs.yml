@@ -1,0 +1,42 @@
+site_name: Juknis AAWS
+site_url: https://dhifender.gitlab.io/aaws/
+site_dir: public
+nav:
+  - Beranda: index.md
+  - Riwayat: release_notes.md
+  - Syarat & Ketentuan: 
+    - Syarat: requirement.md
+    - Ketentuan: software.md
+  - Sistem Daya: 
+    - power.md
+    - solar-panel.md
+  - Sensor-sensor:
+    - Angin 10m: wind10.md
+    - Angin 2m: wind2.md
+    - Radiasi Matahari: radiation.md
+    - T/RH : trh.md
+    - Tekanan Udara: pressure.md
+    - Angin 0,5m: wind05.md
+    - Hujan: rain.md
+    - Penguapan: evaporation.md
+    - Tanah: soil.md
+  - Data Logger: logger.md
+  - Modem:
+    - Sub A:
+      - Page 1: modem.md
+theme: 
+  name: material
+  language: id
+  palette:
+    primary: blue
+    accent: light blue
+  features:
+    - instant
+markdown_extensions:
+  - admonition
+  - pymdownx.critic
+  - pymdownx.betterem:
+      smart_enable: all
+extra:
+  generator: false
+copyright: Copyright &copy; 2020 SIRK BMKG
