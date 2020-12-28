@@ -21,6 +21,7 @@ nav:
     - Evaporation: evaporation.md
     - Soil: soil.md
   - Data Logger: 
+    - DeTransfer: detransfer.md
     - Data Taker: logger.md
     - Battery Replacement: battery.md
   - Modems:
@@ -39,6 +40,10 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.betterem:
       smart_enable: all
+  - attr_list
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 extra:
   generator: false
 copyright: Copyright &copy; 2020 SIRK BMKG
