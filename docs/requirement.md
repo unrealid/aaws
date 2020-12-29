@@ -1,19 +1,26 @@
 # Tools
 ***
 
-Berikut merupakan beberapa hal yang harus disiapkan sebelum melaksanakan kegiatan pemeliharaan peralatan AAWS, antara lain:
+Berikut merupakan beberapa alat yang harus disiapkan sebelum melaksanakan kegiatan pemeliharaan peralatan AAWS, antara lain:
 
-* `Notebook/Laptop` - OS Windows, port/converter LAN.
-* `Kabel LAN` - Tipe cross.
-* `Toolkit` - Toolkit set lengkap, kabel ties, double tape, kuas.
-* `Safety` - Safety belt, safety shoes, safety helmet, sarung tangan anti statis.
-* `Multimeter` - Tipe digital.
-* `Spare Parts` - Suku cadang yang diperlukan.
-* `Lainnya` - Kapur semut, wet tissue, dan penunjang lainnya.
+- [x] `Notebook/Laptop` - OS Windows, port/converter LAN
 
-## Kabel LAN Cross
+- [x] `Kabel LAN` - Tipe cross
 
-!!! info
-    Jika ingin membuat kabel LAN tipe cross, pakailah petunjuk konfigurasi kabel gambar berikut:
+: !!! attention
+        **Harap membawa kabel LAN sendiri. Khususnya modem InHand, kabel LAN dapat langsung dikoneksikan ke port di modem sehingga tidak mencabut kabel LAN yang sudah ada**
 
-![Screenshot](img/lan_cross.png)
+: !!! info
+        Jika ingin membuat kabel LAN tipe cross, pakailah petunjuk konfigurasi kabel gambar berikut:
+
+: ![Placeholder](img/lan_cross.png){: loading=lazy }
+
+- [x] `Toolkit` - Toolkit set lengkap, kabel ties, double tape, kuas
+
+- [x] `Safety` - Safety belt, safety shoes, safety helmet, sarung tangan anti statis
+
+- [x] `Multimeter` - Tipe digital
+
+- [x] `Spare Parts` - Suku cadang yang diperlukan
+
+- [x] `Lainnya` - Kapur semut, wet tissue, dan penunjang lainnya

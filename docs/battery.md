@@ -48,4 +48,3 @@
 - [x] `Step 12` - Pasang kembali baut belakang data logger lalu pasang juga penutup kanan dan kiri data logger. Selesai.
 
 : ![Placeholder](img/battery-replacement-12.png){: loading=lazy }
-
