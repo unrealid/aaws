@@ -3,7 +3,6 @@ site_url: https://unrealid.github.io/aaws/
 site_dir: public
 nav:
   - Home: index.md
-  - Release Notes: release_notes.md
   - Getting Started: 
     - Tools: requirement.md
     - Software: software.md
