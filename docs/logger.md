@@ -1,62 +1,52 @@
-# Formosis vestem armigerae impetus hasta ceu animus
+# Data Taker DT80 Series
+***
 
-## Latosque conduntur potest certa
+!!! important
+    Commands ke logger yang sering digunakan:
 
-Lorem **markdownum verbis**; carmina obruit, prolemque de odoribus Silenum. Tibi
-sisto, pando, auribus remoretur vires inhaerentem viro fulget et artibus faciem!
-Suae in et sua nos silva et nexis: illa reducit armo surgere, hostia? Sacra
-metum has quamvis verum domus nocte haec demisit currere.
+    `1` Setting date: {==d=dd/mm/yyyy==}
 
-- Semper memor sanguine belua adimunt
-- Edidit lusuque
-- Et et vixisse tantum
-- Natae te geminas
-- Per esset inmisitque et vehebat viscera Threicio
+    `2` Setting time: {==t=hh:mm:ss==}
 
-## Tuis audet
+    `3` Mengetahui program yang sedang dijalankan: {==curjob==}
 
-Cum sed cauda eunt solvit, forma tulit Arcas praesens, lecto aquae, trahens
-Othrysque dedit viderunt. [Dies](http://www.cornua.io/) damnum nomina acervos
-vestes fugiunt rerum adicit Iasonis, et!
+    `4` Menghapus program: {==delalljobs==}
 
-1. Abstrahere mensuraque non penetralibus prioribus indefletaeque furoribus
-2. Pacaverat denum
-3. Tecta utile retro
+- [X] Lakukan koneksi antara data logger dengan notebook melalui kabel LAN
 
-## Terras summo pariter despice Aeacides tristis primo
+- [X] Akses halaman konfigurasi data logger melalui browser di `192.168.10.21`. Pilih menu `Monitor the logger`
 
-Pia vultus nec numquam Sigeia suis tu conscelero dum sic donis fuissem loco
-rapuere Eridanum videbar primitias, regna. Guttae enim caeli et cuspide matura
-nec exire dum molibus levi enixa sudore cum erat, quod,
-[nunc](http://manes.net/). Credens solus avem ille, mora montani aberat,
-fluminea. Mentem perfringit pecus. Cui senem aequoreo subit, pereat Pentheus me,
-ipse illuc fretum ire.
+: ![Placeholder](img/logger00.png){: loading=lazy }
 
-    var bufferBiometrics = yobibyteOfficeWeb;
-    if (cd_graphic_dcim(kbps_domain(4, 3), 3) >= simplex(gbps - 1, apache(c,
-            dslam_compression_spyware))) {
-        monochrome(user, pingFriendExport);
-    }
-    im += bitrate(64) + gnutellaNewlineBsod(metaPowerpoint(84),
-            telecommunicationsLifoImpact, 13);
+- [X] Cek tanggal dan waktu pada data logger.
 
-## Habet fontis silvis metu
+: ![Placeholder](img/logger01.png){: loading=lazy }
 
-Colerent neque: magna tum vultus, iam non pugnacem, est quoque **dextram**
-interrita. Caeruleum flammas. Vacuum Lichan instantes dedissent possent, hora
-hoc post quo.
+    Bila tidak sesuai dengan tanggal dan waktu terbaru dalam format UTC maka dapat dilakukan update melalui command dengan mengetikan perintah:
 
-1. Illa tibi inque animas dentibus sequitur moenia
-2. Ut manu
-3. Quantum nec nubila annis
+    * Untuk setting tanggal: `d=dd/mm/yyyy` (contoh: d=01/01/2020) 
+    * Untuk setting waktu: `t=hh:mm:ss` (contoh: t=01:02:03)
 
-Plenaque timenda tigridis Hyrie haeret tinctus, volucris tempusque, sua.
-Novissima dubium: gratissima, ferre, et atra Timoli mei sit rogantem Amphrysos
-Phoco [retia](http://www.sanguine.io/semper.aspx) deo scelerique veni montis.
-Undis Ulixem ponat exemplo priorum opus secutus dotaliaque cives totumque
-insomni et sic in. Perpessi nemorum exire.
+- [X] Lakukan backup program/script data logger dengan cara copy-paste program/script dari data logger ke teks editor (seperti notepad) lalu simpan dalam format `*.txt`. Pilih menu `Status` > `Program` untuk melakukan backup script program yang ada melalui blok semua lalu copy script tersebut ke teks editor untuk disimpan
+
+: ![Placeholder](img/logger02.png){: loading=lazy }
+
+- [X] Bila diperlukan, pilih menu `Retrieve data` untuk download data dari data logger. Tentukan range yang diinginkan, pilih format `*.csv` lalu klik `Retrieve now`
+
+: ![Placeholder](img/logger03.png){: loading=lazy }
+
+- [X] Bila ingin melakukan perubahan pada tanggal, waktu ataupun upload script program ke data logger dapat dilakukan di bagian `Command` > `Enable`. Pada logger Data Taker dengan firmware v9++, check juga `Append Data`
+
+: ![Placeholder](img/logger04.png){: loading=lazy }
+
+- [X] Jika program data logger tidak ada/kosong maka dapat dilakukan pemrograman kembali dengan copy-paste program backup versi sebelumnya di halaman Command lalu pilih `Send all`
+
+: ![Placeholder](img/logger05.png){: loading=lazy }
+
+!!! important
+    Jika melakukan Copy Paste script program, pastikan pada akhir script program (setelah `End`) wajib ditambahkan baris {==**Runjobonreset"nama_program"**==}
+    : ![Placeholder](img/logger06.png){: loading=lazy }
+
+- [X] Setelah semua konfigurasi selesai, lalukan pengecekan ulang pada data logger dengan mematikan data logger lalu nyalakan data logger kembali, klik tombol {==panah kebawah==}. {==Perhatikan pada display data logger bila nama  script program sudah tampil maka data logger sudah dapat melakukan akuisisi data. Bila muncul “no current job” maka lakukan upload script program kembali.==}
 
 For full documentation visit [thermofisher.com](https://www.thermofisher.com/id/en/home/industrial/manufacturing-processing/data-acquisition/data-acquisition-resources.html)
-
-(https://www.thermofisher.com/id/en/home/industrial/manufacturing-processing/data-acquisition/software-firmware-drivers.html)
-

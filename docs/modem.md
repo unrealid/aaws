@@ -3,7 +3,16 @@
 
 ## Moxa
 
+`1` Akses halaman konfigurasi modem melalui browser di `192.168.10.10`
 
+`2` Pada menu sidebar kiri (Main Menu) pilih `Network Settings` > `GSM GPRS Settings` 
+
+`3` Lalu isikan APN, Username dan Password sesuai dengan operator yang digunakan
+
+!!! note
+    ![Placeholder](img/moxa.jpg){: loading=lazy }
+
+`4` Klik `Submit` untuk menyimpan perubahan yang telah dilakukan
 
 ## Robustel
 

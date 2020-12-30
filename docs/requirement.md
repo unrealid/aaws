@@ -3,8 +3,6 @@
 
 Berikut merupakan beberapa alat yang harus disiapkan sebelum melaksanakan kegiatan pemeliharaan peralatan AAWS, antara lain:
 
-- [x] `Notebook/Laptop` - OS Windows, port/converter LAN
-
 - [x] `Kabel LAN` - Tipe cross
 
 : !!! attention
@@ -13,7 +11,13 @@ Berikut merupakan beberapa alat yang harus disiapkan sebelum melaksanakan kegiat
 : !!! info
         Jika ingin membuat kabel LAN tipe cross, pakailah petunjuk konfigurasi kabel gambar berikut:
 
-: ![Placeholder](img/lan_cross.png){: loading=lazy }
+: ![Placeholder](img/lan-cross.png){: loading=lazy }
+
+- [x] `Notebook/Laptop` - OS Windows, port/converter LAN
+
+: Lakukan setting IP Address pada Notebook/laptop dengan IP dan Subnet mask berikut:
+
+: ![Placeholder](img/lan-setting.png){: loading=lazy }
 
 - [x] `Toolkit` - Toolkit set lengkap, kabel ties, double tape, kuas
 
