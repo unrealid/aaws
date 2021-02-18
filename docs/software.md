@@ -2,7 +2,10 @@
 ***
 
 !!! warning "Warning"
-    Sebelum melaksanakan kegiatan pemeliharaan peralatan AAWS, **notebook/laptop harus sudah terinstall dan terkonfigurasi aplikasi yang tercantum dibawah ini**.
+    Sebelum melaksanakan kegiatan pemeliharaan peralatan AAWS, **notebook/laptop harus sudah terinstall dan terkonfigurasi aplikasi yang tercantum dibawah ini**. 
+    
+!!! info "Info"
+    Bila ingin menggunakan browser untuk setting data logger Data Taker DT80, maka gunakan aplikasi Firefox portable berikut: [32bit](https://s.id/ff32bit) atau [64bit](https://s.id/ff64bit).
 
 ## DeTransfer
 
@@ -10,6 +13,13 @@ Software konfigurasi data logger Data Taker
 
 !!! hint "Link"
     Download DeTransfer di [thermofisher.com](https://downloads.thermofisher.com/ANZ_Software_Uploads/DeTransfer3.27.zip)
+
+## dEX
+
+Software display data logger Data Taker
+
+!!! hint "Link"
+    Download dEX 2.0 di [thermofisher.com](http://downloads.thermofisher.com/ANZ_Software_Uploads/dEX-2%20Setup%202.1.6.exe)
 
 ## Notepad++
 

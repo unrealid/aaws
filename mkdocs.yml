@@ -20,6 +20,7 @@ nav:
     - Evaporation: evaporation.md
     - Soil: soil.md
   - Data Logger: 
+    - dEX: dex.md
     - DeTransfer: detransfer.md
     - Data Taker: logger.md
     - Battery Replacement: battery.md
@@ -40,6 +41,7 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - footnotes
 extra:
   generator: false
 extra_css:
