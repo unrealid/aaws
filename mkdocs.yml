@@ -20,7 +20,7 @@ nav:
     - Evaporation: evaporation.md
     - Soil: soil.md
   - Data Logger: 
-    - dEX: dex.md
+    - dEX-2: dex.md
     - DeTransfer: detransfer.md
     - Data Taker: logger.md
     - Battery Replacement: battery.md
